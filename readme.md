@@ -2,7 +2,7 @@
 
 A basic responsive template for a food web page. This project is designed to be a starting point for building a food-related website.
 
-Project Link: [https://vishucodebug.github.io/food_web_page/](https://vishucodebug.github.io/food_web_page/)
+Project Live Page Link: [https://vishucodebug.github.io/food_web_page/](https://vishucodebug.github.io/food_web_page/)
 
 ## Table of Contents
 
